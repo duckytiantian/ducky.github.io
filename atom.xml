@@ -44,268 +44,52 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF24%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是24岁/</id>
-    <published>2019-03-15T13:18:39.134Z</published>
-    <updated>2019-03-15T13:18:39.134Z</updated>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2014/05/16/hello-world/"/>
+    <id>http://yoursite.com/2014/05/16/hello-world/</id>
+    <published>2014-05-15T16:00:00.000Z</published>
+    <updated>2019-03-14T03:06:20.603Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
     </summary>
     
+      <category term="boooom" scheme="http://yoursite.com/categories/boooom/"/>
+    
+    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF23%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是23岁/</id>
-    <published>2019-03-15T13:18:39.133Z</published>
-    <updated>2019-03-15T13:18:39.133Z</updated>
+    <title>helloworld</title>
+    <link href="http://yoursite.com/1994/05/16/helloworld/"/>
+    <id>http://yoursite.com/1994/05/16/helloworld/</id>
+    <published>1994-05-15T16:00:00.000Z</published>
+    <updated>2019-03-15T13:02:02.327Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="hi-ducky"><a href="#hi-ducky" class="headerlink" title="hi,ducky"></a>hi,ducky</h3><p>what’s the most important of life ?<br>freedom<br>what’s the most important of love ?<br>understand</p><p><img src="/images/test.jpg" alt="gouzi"></p>]]></content>
     
     <summary type="html">
     
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF22%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是22岁/</id>
-    <published>2019-03-15T13:18:39.132Z</published>
-    <updated>2019-03-15T13:18:39.132Z</updated>
-    
-    <summary type="html">
+      
+      
+        &lt;h3 id=&quot;hi-ducky&quot;&gt;&lt;a href=&quot;#hi-ducky&quot; class=&quot;headerlink&quot; title=&quot;hi,ducky&quot;&gt;&lt;/a&gt;hi,ducky&lt;/h3&gt;&lt;p&gt;what’s the most important of life ?&lt;br&gt;freedom
+      
     
     </summary>
     
+      <category term="test" scheme="http://yoursite.com/categories/test/"/>
     
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF21%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是21岁/</id>
-    <published>2019-03-15T13:18:39.131Z</published>
-    <updated>2019-03-15T13:18:39.131Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF20%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是20岁/</id>
-    <published>2019-03-15T13:18:39.130Z</published>
-    <updated>2019-03-15T13:18:39.130Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF19%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是19岁/</id>
-    <published>2019-03-15T13:18:39.129Z</published>
-    <updated>2019-03-15T13:18:39.129Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF18%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是18岁/</id>
-    <published>2019-03-15T13:18:39.128Z</published>
-    <updated>2019-03-15T13:18:39.128Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF17%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是17岁/</id>
-    <published>2019-03-15T13:18:39.127Z</published>
-    <updated>2019-03-15T13:18:39.127Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF16%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是16岁/</id>
-    <published>2019-03-15T13:18:39.126Z</published>
-    <updated>2019-03-15T13:18:39.126Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF15%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是15岁/</id>
-    <published>2019-03-15T13:18:39.125Z</published>
-    <updated>2019-03-15T13:18:39.125Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF14%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是14岁/</id>
-    <published>2019-03-15T13:18:39.124Z</published>
-    <updated>2019-03-15T13:18:39.124Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF13%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是13岁/</id>
-    <published>2019-03-15T13:18:39.123Z</published>
-    <updated>2019-03-15T13:18:39.123Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF12%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是12岁/</id>
-    <published>2019-03-15T13:18:39.122Z</published>
-    <updated>2019-03-15T13:18:39.122Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF11%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是11岁/</id>
-    <published>2019-03-15T13:18:39.121Z</published>
-    <updated>2019-03-15T13:18:39.121Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF10%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是10岁/</id>
-    <published>2019-03-15T13:18:39.120Z</published>
-    <updated>2019-03-15T13:18:39.120Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF9%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是9岁/</id>
-    <published>2019-03-15T13:18:39.119Z</published>
-    <updated>2019-03-15T13:18:39.119Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF8%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是8岁/</id>
-    <published>2019-03-15T13:18:39.118Z</published>
-    <updated>2019-03-15T13:18:39.118Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF7%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是7岁/</id>
-    <published>2019-03-15T13:18:39.117Z</published>
-    <updated>2019-03-15T13:18:39.117Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/03/15/%E8%BF%99%E6%98%AF6%E5%B2%81/"/>
-    <id>http://yoursite.com/2019/03/15/这是6岁/</id>
-    <published>2019-03-15T13:18:39.116Z</published>
-    <updated>2019-03-15T13:18:39.116Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
+      <category term="life" scheme="http://yoursite.com/tags/life/"/>
     
   </entry>
   
